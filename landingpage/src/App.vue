@@ -124,6 +124,13 @@
           >
             Télécharger Desktop Negosudversion essaie (1.0.0)
           </a>
+          <a
+            href="/"
+            v-if="role"
+            class="btn btn-lg banner-btn font-weight-bold text-white py-3 d-block mx-auto mt-4"
+          >
+            Guide d'installation
+          </a>
           <button
             class="btn btn-lg banner-btn font-weight-bold text-white py-3 d-block mx-auto mt-4"
           >
@@ -176,8 +183,8 @@ export default {
   name:"bienvenue",
   data() {
     return {
-      role: false,
-      admin: false,
+      role: true,
+      admin: true,
       APIstatus: true,
       activeIndex: false,
     };
