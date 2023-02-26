@@ -36,8 +36,14 @@
                   <a
                     href="https://github.com/Ismail-Mouyahada/NegosudAPI-Master"
                     target="_blank"
-                    >Documentation</a
+                    >Github</a
                   >
+                </li>
+                <li>
+                  <a href="https://unexpected-salt-c05.notion.site/Documentation-de-l-API-Negosud-ASP-net-Core-7-45857da0a78a40adb691b77005d5fe18" target="_b
+                  ">
+                    Documentation
+                  </a>
                 </li>
                 <li>
                   <a
