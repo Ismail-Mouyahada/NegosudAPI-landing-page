@@ -118,15 +118,15 @@
           </h1>
           <!-- eslint-disable-next-line vue/no-parsing-error -->
           <a
-            href="https://github.com/Ismail-Mouyahada/Master-ASP.Net-Project/tree/main/appNegoSudWinForms/appNegoSudWinForms/bin/Debug/net7.0-windows"
-            v-if="role"
-            class="btn btn-lg banner-btn font-weight-bold text-white py-3 d-block mx-auto mt-4"
+            href="https://github.com/Ismail-Mouyahada/WinForm-Negosud-Software/raw/main/appNegoSudWinForms/SetupNegoSud/Debug/SetupNegoSud.msi"
+            
+            class="btn btn-lg banner-btn font-weight-bold text-white py-3 d-block mx-auto mt-4" download
           >
-            Télécharger Desktop Negosudversion essaie (1.0.0)
+            Télécharger Desktop Negosud (version 1.0.0)
           </a>
           <a
             href="/"
-            v-if="role"
+           
             class="btn btn-lg banner-btn font-weight-bold text-white py-3 d-block mx-auto mt-4"
           >
             Guide d'installation
