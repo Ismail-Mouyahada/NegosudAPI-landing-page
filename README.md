@@ -103,3 +103,10 @@ Félicitations, vous avez maintenant déployé votre page d'accueil Negosud en V
 Click the button to deploy your own copy on Vercel in one step.
 
 The app lives in the `landingpage` folder, which the button sets as the Vercel root directory.
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
