@@ -95,3 +95,11 @@ Félicitations, vous avez maintenant déployé votre page d'accueil Negosud en V
   
   
 ![pageaccuk](https://user-images.githubusercontent.com/66369128/221434044-066f37c9-4f9f-4569-abb3-53f7b9617f71.png)
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fnegosud-landing-page&root-directory=landingpage)
+
+Click the button to deploy your own copy on Vercel in one step.
+
+The app lives in the `landingpage` folder, which the button sets as the Vercel root directory.
